@@ -1,6 +1,6 @@
-# Introduction to Git and GitHub
+# Introduction to Git and GitHub by IBM
 
-## Simple Interest Calculator
+## Simple Interest Calculator we created
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
